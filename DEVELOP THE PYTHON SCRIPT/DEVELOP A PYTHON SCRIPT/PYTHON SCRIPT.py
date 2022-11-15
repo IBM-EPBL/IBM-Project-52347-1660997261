@@ -7,15 +7,15 @@ from twilio.rest import Client
 import keys
 Client = Client(keys.account_sid, keys.auth_token)
 
-organization = "lwkiec"
-deviceType = "Microcontroller_Device_1"
-deviceId = "00002"
+organization = "7imlx4"
+deviceType = "b11m3edevicetype"
+deviceId = "25471device"
 authMethod = "token"
-authToken = "sushi@123"
+authToken = "EaZVE(h*Si+p(ObQBL"
 
 
 pH = random.randint(1, 14)
-turbidity = random.randint(1, 1000)
+turbidity = random.randint(1, 100)
 temperature = random.randint(0, 100)
 
 
