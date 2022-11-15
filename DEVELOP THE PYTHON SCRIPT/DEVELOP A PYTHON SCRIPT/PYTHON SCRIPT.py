@@ -38,7 +38,7 @@ deviceCli.connect()
 while True:
 
     pH = random.randint(1, 14)
-    turbidity = random.randint(1, 1000)
+    turbidity = random.randint(1, 100)
     temperature = random.randint(0, 100)
 
     data = {'pH': pH, 'turbid': turbidity, 'temp': temperature}
