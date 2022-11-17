@@ -11,7 +11,7 @@ organization = "7imlx4"
 deviceType = "b11m3edevicetype"
 deviceId = "25471device"
 authMethod = "token"
-authToken = "EaZVE(h*Si+p(ObQBL"
+authToken = "Gp2gINS5*tbxxvdesZ"
 
 
 pH = random.randint(1, 14)
